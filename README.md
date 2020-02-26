@@ -12,6 +12,6 @@ Morfolojik İşlemler (10 farklı morfolojik işlem)
 Video İşleme
 
 Program, OpenCV-Python ortamında yazılmıştır.
-Arayüz için Tkinter kullanılmıştır
+Arayüz için Tkinter kullanılmıştır.
 
 
