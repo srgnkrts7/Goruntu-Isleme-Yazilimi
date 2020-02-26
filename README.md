@@ -2,19 +2,19 @@
 
 Bu projede aşağıda belirtilen işlemler gerçekleştirilmiştir.
 
-Görüntü Yükleme ve Kaydetme (Load/Read, Save)
+-Görüntü Yükleme ve Kaydetme (Load/Read, Save)
 
-Görüntü İyileştirme İşlemleri, Filtreler (10 farklı filtre)
+-Görüntü İyileştirme İşlemleri, Filtreler (10 farklı filtre)
 
-Histogram Görüntüleme ve Eşikleme
+-Histogram Görüntüleme ve Eşikleme
 
-Uzaysal Dönüşüm İşlemleri (Resizing, Rotation, Cropping, Swirl … gibi 5 farklı dönüşüm işlemi içermeli) 
+-Uzaysal Dönüşüm İşlemleri (Resizing, Rotation, Cropping vb.) 
 
-Yoğunluk Dönüşümü İşlemleri
+-Yoğunluk Dönüşümü İşlemleri
 
-Morfolojik İşlemler (10 farklı morfolojik işlem)
+-Morfolojik İşlemler (10 farklı morfolojik işlem)
 
-Video İşleme
+-Video İşleme
 
 
 Program, OpenCV-Python ortamında yazılmıştır.
