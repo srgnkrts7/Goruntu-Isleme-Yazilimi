@@ -584,5 +584,3 @@ histogram_button = Button(app, text='Activate', font="Times, 10", command=histog
 histogram_button.place(x=185, y=415)
 #Start Program
 app.mainloop()
-
-# ----Sergen KARATAŞ / 0515000637
