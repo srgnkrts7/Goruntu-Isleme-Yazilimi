@@ -1,1 +1,1 @@
-# Goruntu-Isleme-Yazilimi
+# Görüntü İşleme Yazılımı
