@@ -1,4 +1,4 @@
-# Görüntü İşleme Yazılımı
+# Image Processing Application
 
 Bu projede aşağıda belirtilen işlemler gerçekleştirilmiştir.
 
